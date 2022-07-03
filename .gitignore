@@ -66,3 +66,7 @@ node_modules/
 .env
 .DS_Store
 react_native/ios/keibo.xcodeproj
+Keibo/ios/keibo.xcodeproj
+
+backup/
+.vscode/
